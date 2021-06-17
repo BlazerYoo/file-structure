@@ -1,0 +1,1 @@
+python fs.py $1
