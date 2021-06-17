@@ -3,6 +3,8 @@ Generate markdown of file structure
 
 Ideal for generating file structure for repo README's or documentation
 
+File structure example: [Bootstrap README](https://github.com/twbs/bootstrap/blob/main/README.md#whats-included)
+
 Adapted from [StackOverflow](https://stackoverflow.com/questions/9727673/list-directory-tree-structure-in-python)
 
 [Original code](https://github.com/BlazerYoo/file-structure/blob/main/source.py)
