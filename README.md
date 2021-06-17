@@ -3,6 +3,8 @@ Generate markdown of file structure
 
 Ideal for generating file structure for repo README's or documentation
 
+Adapted from [StackOverflow](https://stackoverflow.com/questions/9727673/list-directory-tree-structure-in-python)
+
 ## Use
 1. `git clone https://github.com/BlazerYoo/file-structure.git fs`
 2. `mv ./fs/fs.py ./fs.py`
