@@ -5,7 +5,7 @@ Ideal for generating file structure for repo README's or documentation
 
 Adapted from [StackOverflow](https://stackoverflow.com/questions/9727673/list-directory-tree-structure-in-python)
 
-[Source](https://github.com/BlazerYoo/file-structure/blob/main/source.py)
+[Original code](https://github.com/BlazerYoo/file-structure/blob/main/source.py)
 
 ## Use
 1. `git clone https://github.com/BlazerYoo/file-structure.git fs` or [download](https://github.com/BlazerYoo/file-structure/archive/refs/heads/main.zip) repo
