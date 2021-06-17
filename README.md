@@ -6,7 +6,7 @@ Ideal for generating file structure for repo README's or documentation
 Adapted from [StackOverflow](https://stackoverflow.com/questions/9727673/list-directory-tree-structure-in-python)
 
 ## Use
-1. `git clone https://github.com/BlazerYoo/file-structure.git fs`
+1. `git clone https://github.com/BlazerYoo/file-structure.git fs` or [download](https://github.com/BlazerYoo/file-structure/archive/refs/heads/main.zip) repo
 2. `mv ./fs/fs.py ./fs.py`
 3. `python fs.py [directory]`
 
